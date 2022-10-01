@@ -7,3 +7,7 @@ tips:
      $ bash _file_name
      
      ex. $ bash hello.sh
+
+
+How to create new file in bash or unix/linux system.
+  . touch myfile.txt
