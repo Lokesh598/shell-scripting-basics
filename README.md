@@ -10,4 +10,5 @@ tips:
 
 
 How to create new file in bash or unix/linux system.
-  . touch myfile.txt
+  
+    touch myfile.txt
